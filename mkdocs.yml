@@ -1,0 +1,8 @@
+site_name: "springboot-grpc"
+site_description: "Backstage integration - springboot-grpc template"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

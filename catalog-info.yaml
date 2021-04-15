@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "springboot-grpc"
+  description: "Backstage integration - springboot-grpc template"
+  annotations:
+    github.com/project-slug: luizfernandogp/springboot-grpc
+    backstage.io/techdocs-ref: url:https://github.com/luizfernandogp/springboot-grpc.git
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "guest"
